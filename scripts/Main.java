@@ -5,4 +5,8 @@ public class Main{
         System.out.println("Hola mundo");
     }
 
+    static boolean ttrue(){
+        return true;
+    }
+
 }
